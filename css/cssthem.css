@@ -1,0 +1,73 @@
+body{
+
+}
+/*Form Login*/
+	/*.form-inline{
+		float: right;
+	}*/
+	.form-group input{
+		border-radius: 7px;
+		padding: 2px 5px;
+	}
+	.form-inline button{
+		border-radius: 7px;
+	}
+/*Tim kiem*/
+	#midheader-vp #right{ width:65%; float:right; margin-right: -300px}
+	#midheader-vp #right .txt_input{background: none repeat scroll 0 0 #FFFFFF; float: left;height: 20px;padding: 0 5px 0 4px;width: 165px;border-bottom: 1px solid #C0C0C0;border-left: 1px solid #C0C0C0;border-top: 1px solid #C0C0C0; float:left}
+
+/*MENU*/
+	#menu_web{
+		background-color: #3a469c;
+		height: 38px;
+	}
+	#menu_web ul li a{ color: white; }
+	#menu-vp ul li a:hover{ color:#dddd}
+	#menu-vp ul li { margin-right: 30px; }
+	#menu-vp ul li a { text-align: center; }
+
+/*slide*/
+	.thongtin-content { background:#F4F4F4; min-height:100px; padding:5px 10px}
+/*headeader-vp*/
+	#logothaotin { height: 59px; width: 209px; }
+/*tin hot*/
+	#slideleft-main .title a{ color:#001399}
+	#slideleft-main .title a:hover{ color:#069}
+	.tlq a:hover{ color:#069;}
+
+/* tin xem nhiều*/
+	.hit { color: #999; }
+	#content-vp #content-left a:hover{ color:#001399}
+	#content-vp .main-cat a{ border-top:solid 1px #001399; color:#001399; font-weight:bold; display:block; height:30px; padding:5px 0 0 10px; font-size:12px}
+/*Cột trái*/
+	.fa-eye:before{
+		
+	}
+/*Tin theo nhóm*/
+	#content-vp #content-right .cat .cat-content .title a:hover{ color:#001399}
+/*midheader-vp*/
+	#midheader-vp #left ul li a{ background-color:#ECEEED; border-left:4px solid #001399; color: #001399; font-weight:bold; padding:4px 4px 4px 4px; height:17px; display:block; float:left;}
+		
+
+/*footer*/
+	#ulBlockMenu { background-color: #4a767b; }
+	#footer 
+	.thongtin-content { background-color: #4a767b; }
+	#footer .ulBlockMenu a:hover{ color:#999;}
+	#footer .ulBlockMenu a{ color: white; font-size:12px; font-weight:normal}
+
+/*Content pages*/
+	.a-trangchu{
+
+	}
+	#top3-trangchu p{
+		float: left;
+    	margin: 1px 20px;
+    	list-style-type: circle;
+	}
+	#top3-trangchu p a{
+		color: #999;
+	}
+	#top3-trangchu p a:hover{
+		color: #001399;
+	}
